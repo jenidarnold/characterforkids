@@ -26,22 +26,22 @@
 	  <br/>
 	  <br/>
       <div class="sidebar-module sidebar-module-inset">
-      	<h4>
-      		<quote>We are committed to teaching and reinforcing seven basic universal tenets of good character:</quote>
-      	</h4>
-      </div> 
-      <div class="sidebar-module sidebar-module-inset">
+      	<blockquote class="pull-left">
+      	<p>
+      		We are committed to teaching and reinforcing seven basic universal tenets of good character:
+      	</p>     
       		<center>
       		<h3>
-				Honesty<br/>
-				Trustworthiness<br/>
-				Respect<br/>
-				Responsibility<br/>
-				Caring<br/>
-				Courage<br/>
-				Fairness<br/>
+				<span class="label label-primary">Honesty</span><br/><br/>
+				<span class="label label-success">Trustworthiness</span><br/><br/>
+				<span class="label label-warning">Respect</span><br/><br/>
+				<span class="label label-danger">Responsibility</span><br/><br/>
+				<span class="label label-info">Caring</span><br/><br/>
+				<span class="label label-success">Courage</span><br/><br/>
+				<span class="label label-primary">Fairness</span><br/><br/>
 			</h3>
 			</center>
+		</blockquote>
       </div> 
       <div class="sidebar-module sidebar-module-inset">
       	<img style="width:100%" src="{{ asset('/images/children.jpg') }}">

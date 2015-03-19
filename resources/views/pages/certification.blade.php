@@ -31,7 +31,7 @@
 		<li><b>Unit 3</b>: The Arduous Task
 		<li><b>Unit 4</b>: The Seven Universal Values
 		<li><b>Unit 5</b>: Planning To Teach Character
-		<li><b>Unit 6</b>:  HONESTY
+		<li><b>Unit 6</b>: HONESTY
 	</p>	
 	<h3>Day Two:</h3>
 	<p>
@@ -43,7 +43,7 @@
 	  <br/>
 	  <br/>
       <div class="sidebar-module sidebar-module-inset">
-       		<img style="width:100%" src="{{ asset('/images/seminar2.jpg') }}">
+      	<div class="well"><img style="width:100%" src="{{ asset('/images/seminar2.jpg') }}"></div>
       </div>
 </div>
 @stop

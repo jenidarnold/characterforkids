@@ -5,7 +5,7 @@
 
 <div class="col-sm-7 about-main">
 	<h3>
-		A few words about us
+		A Few Words About Us
 	</h3>
 	<p>
 		Our goal is to train children in good character and ethical values. This is accomplished by training teachers in the methodologies of teaching good character traits to children. Theodore Roosevelt once said, "To train a student in mind and not in morals, is to train a menace to society." We strongly agree with President Roosevelt’s statement. If our world is to be a better place in which to live then we must educate our children in good moral and ethical values.
@@ -14,7 +14,7 @@
 		American teachers are trained to teach the Character for Kids seminars.  They then become part of a team which then travels to Russia or Eastern Europe to teach student teachers, proficient teachers, and professors in selected universities. In some cases we present seminars to faculties of local public schools
 	</p>
 	<h3>
-		Our history
+		Our History
 	</h3>
 	<p>
 		The idea for this program was formulated in late 1998 when representatives of Character International Inc. approached officials of Volgograd State Pedagogical University (VSPU) in Volgograd, Russia about the possibility of presenting character and ethics seminars to university students and faculty. After reviewing the proposal, university leaders agreed to allow three pilot seminars to be presented for administration and faculty evaluation.
@@ -34,15 +34,13 @@
 	  <br/>
 	  <br/>
       <div class="sidebar-module sidebar-module-inset">
-       		<img style="width:100%" src="{{ asset('/images/public_school_faculty.jpg') }}">
+      	<div class="well"><img style="width:100%" src="{{ asset('/images/public_school_faculty.jpg') }}"></div>
       </div>
-      <br/>
       <div class="sidebar-module">
-        	<img style="width:100%"  src="{{ asset('/images/Klaipeda_University_Lithuania.jpg ') }}">
+        <div class="well"><img style="width:100%"  src="{{ asset('/images/Klaipeda_University_Lithuania.jpg ') }}"></div>
       </div>
-      <br/>
       <div class="sidebar-module">
-       		<img style="width:100%"  src="{{ asset('/images/Volgograd_building.jpg') }}">
+      	<div class="well"><img style="width:100%"  src="{{ asset('/images/Volgograd_building.jpg') }}"></div>
       </div>
 </div>
 @stop

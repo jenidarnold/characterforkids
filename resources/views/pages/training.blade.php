@@ -22,9 +22,10 @@
 	</h3>
 	<p>
 		<h5>Prerequisites:</h5>
-			<li>Be a person of high moral and ethical values.
-			<li>Complete a two day training course.
-			<li>Agree to travel to Russia or Eastern Europe to conduct seminars <a href="{{ url('certification') }}">learn more</a>
+			
+			<ul><i class="fa fa-star"></i> Be a person of high moral and ethical values.</ul>
+			<ul><i class="fa fa-star"></i> Complete a two day training course.</ul>
+			<ul><i class="fa fa-star"></i> Agree to travel to Russia or Eastern Europe to conduct seminars <a href="{{ url('certification') }}">learn more</a></ul>
 	</p>
 
 	<p>

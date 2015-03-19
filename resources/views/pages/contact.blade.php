@@ -31,15 +31,15 @@
 	  <br/>
 	  <br/>
       <div class="sidebar-module sidebar-module-inset">
-      	<img style="width:100%" src="{{ asset('/images/NewMillenniumGroup.jpg') }}">
+      		<div class="well"><img style="width:100%" src="{{ asset('/images/NewMillenniumGroup.jpg') }}"></div>
       </div> 
        <br/>
       <div class="sidebar-module sidebar-module-inset">
-      	<img style="width:100%" src="{{ asset('/images/seminar3.jpg') }}">
+      		<div class="well"><img style="width:100%" src="{{ asset('/images/seminar3.jpg') }}"></div>
       </div> 
        <br/>
       <div class="sidebar-module sidebar-module-inset">
-      	<img style="width:100%" src="{{ asset('/images/seminar_students.jpg') }}">
+      		<div class="well"><img style="width:100%" src="{{ asset('/images/seminar_students.jpg') }}"></div>
       </div> 
 </div>
 @stop
