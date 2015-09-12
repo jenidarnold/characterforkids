@@ -19,6 +19,18 @@
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
+	<style type="text/css">
+	   p {
+	   	font-size: 12pt;
+	   	padding-left: 20px;
+	   	padding-bottom: 10px;	   	
+	   }
+	   .mainmenu {
+	   	font-size: 14pt;
+	   	font-weight: 700;
+	   	color: #ffffff;
+	   }
+	</style>
 </head>
 <body>
 	<nav class="navbar navbar-inverse">
@@ -34,7 +46,7 @@
 			</div>
 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-				<ul class="nav navbar-nav">
+				<ul class="nav navbar-nav mainmenu">
 					<li><a href="{{ url('/') }}">Home</a></li>
 					<li><a href="{{ url('/about') }}">Who Are We?</a></li>
 					<li><a href="{{ url('/training') }}">Training</a></li>
@@ -44,7 +56,7 @@
 					<li><a href="{{ url('/contact') }}">Contact Us</a></li>
 				</ul>
 
-				<ul class="nav navbar-nav navbar-right">
+				<!--ul class="nav navbar-nav navbar-right">
 					@if (Auth::guest())
 						<li><a href="{{ url('/auth/login') }}">Login</a></li>
 						<li><a href="{{ url('/auth/register') }}">Register</a></li>
@@ -56,7 +68,7 @@
 							</ul>
 						</li>
 					@endif
-				</ul>
+				</ul-->
 			</div>
 		</div>
 	</nav>

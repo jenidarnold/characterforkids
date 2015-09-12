@@ -15,9 +15,9 @@
 	</h3>
 	<p>
 		In 1999, the students at Volgograd State Pedagogical University took the initiative to form a Character Development Trainers' Association. 
-	</p>	
+	</p>		
+	<h4>The association was formed to:</h4>
 	<p>
-		<h4>The association was formed to:</h4>
 		Promote the understanding of CFK's seven universal moral values and the many roles that education plays in the shaping the perpetuation of cultures, the development of mutual understanding between nations and influencing the lives of individuals in a changing world. 
 		Improve opportunities for the citizens of the world by fostering an understanding of how a person's character is formed in early childhood by parents, teachers and the educational environment. 
 		Increase cross-cultural understanding through the educational process of the study of character development and practices that affect individual and social well-being.
